@@ -1,0 +1,24 @@
+{
+  "name": "undo.js",
+  "version": "0.0.1",
+  "description": "A javascript module to enable undo/redo on a object level.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "javascript",
+    "undo",
+    "redo"
+  ],
+  "author": "Jakob Frick",
+  "license": "MIT",
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
