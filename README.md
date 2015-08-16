@@ -1,4 +1,4 @@
-undo.js
+undojs
 =======
 
 A javascript module to enable undo/redo on a object level.

@@ -1,11 +1,11 @@
 {
-  "name": "undo.js",
+  "name": "undojs",
   "version": "0.0.1",
   "description": "A javascript module to enable undo/redo on a object level.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/koogle/undo.js.git"
+    "url": "git://github.com/koogle/undojs.git"
   },
   "keywords": [
     "javascript",
@@ -20,5 +20,15 @@
   "devDependencies": {
     "chai": "^3.2.0",
     "mocha": "^2.2.5"
+  },
+  "bugs": {
+    "url": "https://github.com/koogle/undojs/issues"
+  },
+  "homepage": "https://github.com/koogle/undojs#readme",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.2.0"
   }
 }
